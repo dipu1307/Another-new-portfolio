@@ -10,3 +10,12 @@ body{
     font-size: 30px;
     color:crimson;
 }
+#name{
+    font-size:large;
+    font-weight: bolder;
+    color: black;
+}
+p{
+    text-align: justify;
+    
+}
