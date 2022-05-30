@@ -24,4 +24,13 @@ p {
     font-size: 16px;
     
 }
+.info-click{
+    font-size: 22px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, cyan);
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
 /* header style */
