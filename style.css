@@ -1,6 +1,10 @@
 body{
     font-family: 'Inter', sans-serif;
 }
+p {
+    text-align: justify;
+}
+/* header style */
 .first-heading{
     font-size: 40px;
     font-style: italic;
@@ -15,11 +19,9 @@ body{
     font-weight: bolder;
     color: black;
 }
-p{
-    text-align: justify;
-    
-}
+
 .intro-para{
     font-size: 16px;
     
 }
+/* header style */
