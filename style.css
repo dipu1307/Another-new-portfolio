@@ -1,10 +1,29 @@
 body{
     font-family: 'Inter', sans-serif;
+    margin: 0 auto;
 }
 p {
     text-align: justify;
 }
+
 /* header style */
+.flexible-container{
+    display: flex;
+    
+    
+}
+.header{
+        background-image: url(./images/background\ 7.jpg);
+        background-repeat: no-repeat;
+       
+        
+        
+}
+.header-half-width{
+    margin-top: 100px;
+    width: 50%;
+    padding-left: 5%;
+}
 .first-heading{
     font-size: 40px;
     font-style: italic;
@@ -32,5 +51,10 @@ p {
     padding: 10px 20px;
     border-radius: 5px;
     display: inline-block;
+}
+.header-half-width img{
+    width: 80%;
+    margin-top: 50px;
+    
 }
 /* header style */
