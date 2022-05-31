@@ -60,6 +60,23 @@ p {
 /* header style */
 
 /*second part style */
-
+.flexible-container2{
+    display: flex;
+    margin-top: 100px;
+}
+.second-header{
+    background-image: url(./images/background\ 7.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.second-half-width img{
+    width: 80%;
+    margin-left: 50px;
+}
+.second-half-width{
+    width: 50%;
+    margin-top: 150px;
+    padding-right: 2%;
+}
 
 /*second part style */
