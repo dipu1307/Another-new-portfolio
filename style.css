@@ -67,7 +67,7 @@ p {
 .second-header{
     background-image: url(./images/background\ 7.jpg);
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: right;
 }
 .second-half-width img{
     width: 80%;
@@ -78,5 +78,16 @@ p {
     margin-top: 150px;
     padding-right: 2%;
 }
-
+.second-half-width h1{
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+.second-half-width h4{
+    font-size: 25px;
+    color: blueviolet;
+}
+.second-half-width p{
+    font-size: larger;
+    color:chocolate;
+}
 /*second part style */
