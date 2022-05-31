@@ -90,4 +90,12 @@ p {
     font-size: larger;
     color:chocolate;
 }
+.again-info{
+    text-decoration: none;
+    font-size: x-large;
+    background-image: linear-gradient(chocolate, crimson);
+    padding: 10px 25px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
 /*second part style */
