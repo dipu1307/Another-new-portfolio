@@ -101,5 +101,21 @@ p {
 }
 /*second part style */
 /* third part start */
-
+.flexible-container3{
+    display: flex;
+    margin-top: 50px;
+}
+.third{
+    background-image: url(./images/background\ 7.jpg);
+    background-repeat: no-repeat;
+}
+.third-half-width{
+    width: 50%;
+    padding-left: 3%;
+    margin-top: 100px;
+}
+.third-half-width img{
+    width: 80%;
+    margin-left: 50px;
+}
 /* third part start */
