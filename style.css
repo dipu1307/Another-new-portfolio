@@ -89,6 +89,7 @@ p {
 .second-half-width p{
     font-size: larger;
     color:chocolate;
+    text-align: justify;
 }
 .again-info{
     text-decoration: none;
@@ -99,3 +100,44 @@ p {
     border-radius: 5px;
 }
 /*second part style */
+/* third part start */
+.flexible-container3{
+    display: flex;
+    
+    
+}
+.third-part{
+    background-image: url(./images/background\ 7.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    
+}
+.third-half-width{
+    width: 50%;
+    padding-left: 2%;
+    margin-top: 100px;
+}
+.third-half-width h1{
+    font-size: 35px;
+    color: darkorange;
+}
+.third-half-width h4{
+    font-size: 25px;
+    color:firebrick;
+}
+.third-half-width p{
+    color: darkseagreen;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.more-info{
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-image: linear-gradient(green, lightcoral);
+    padding: 15px 25px;
+    border-radius: 10px;
+    
+}
+/* third part start */
