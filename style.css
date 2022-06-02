@@ -114,6 +114,12 @@ p {
     padding-left: 3%;
     margin-top: 100px;
 }
+.third-half-width h1{
+    text-align: center;
+    font-size: 40px;
+    color: coral;
+
+}
 .third-half-width img{
     width: 80%;
     margin-left: 50px;
