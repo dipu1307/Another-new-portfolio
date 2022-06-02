@@ -120,6 +120,15 @@ p {
     color: coral;
 
 }
+.third-half-width h4{
+    font-size: 30px;
+    color: darkblue;
+}
+.third-half-width p{
+    font-size: larger;
+    font-weight: 900;
+    color: burlywood;
+}
 .third-half-width img{
     width: 80%;
     margin-left: 50px;
