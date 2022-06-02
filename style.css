@@ -81,6 +81,7 @@ p {
 .second-half-width h1{
     font-size: 30px;
     color: darkgoldenrod;
+    
 }
 .second-half-width h4{
     font-size: 25px;
@@ -138,6 +139,7 @@ p {
     border-radius: 10px;
 
 }
+
 .third-half-width img{
     width: 80%;
     margin-left: 50px;
