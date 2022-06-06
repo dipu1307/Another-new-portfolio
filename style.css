@@ -157,6 +157,7 @@ p {
     background-image: url(./images/background\ 8.jpg);
     background-repeat: no-repeat;
     background-position: bottom right;
+    
 }
 
 
@@ -172,13 +173,26 @@ p {
 }
 .fourth-half-width h1{
     font-size: 50px;
-    text-align: center;
+   color: forestgreen;
+    
+}
+.fourth-half-width h4{
+    font-size: 26px;
+    color: hotpink;
 }
 .fourth-half-width p{
     font-size: 20px;
     font-weight: 800;
     text-align: justify;
-    color: darkgoldenrod;
+    color:darkslategrey;
+}
+.too-more{
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: 900;
+    background-image: linear-gradient(tomato, blue);
+    padding: 10px 20px;
+    border-radius: 20px;
 }
 
 /* fourth part start */
