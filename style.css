@@ -146,3 +146,39 @@ p {
 }
 
 /* third part start */
+
+/* fourth part start */
+
+.flexible-container4{
+    display: flex;
+    margin-top: 50px;
+}
+.fourth-header{
+    background-image: url(./images/background\ 8.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+
+.fourth-half-width{
+    width: 50%;
+    padding-right: 2%;
+    margin-top: 100px;
+}
+
+.fourth-half-width img{
+    width: 70% ;
+    margin-left: 40px;
+}
+.fourth-half-width h1{
+    font-size: 50px;
+    text-align: center;
+}
+.fourth-half-width p{
+    font-size: 20px;
+    font-weight: 800;
+    text-align: justify;
+    color: darkgoldenrod;
+}
+
+/* fourth part start */
