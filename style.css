@@ -208,7 +208,7 @@ p {
     font-size: 60px;
     color: darkorange;
 }
-.felxible-container5{
+.flexible-container5{
     display: flex;
     margin-top: 100px;
 }
@@ -240,3 +240,21 @@ p {
     border-image-slice: 2;
 }
 /*fifth style part */
+
+/* six style part start */
+.profile-area{
+    background-image: url(./images/background\ 9.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin-top: 200px;
+}
+.flexible-container6{
+    display: flex;
+    margin-top: 100px;
+}
+.six-half-width{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+/* six style part end */
