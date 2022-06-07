@@ -272,3 +272,13 @@ p {
 
 }
 /* six style part end */
+
+footer{
+    margin-top: 200px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
