@@ -245,7 +245,7 @@ p {
 .profile-area{
     background-image: url(./images/background\ 9.jpg);
     background-repeat: no-repeat;
-    background-position: top right;
+    background-position: bottom right;
     margin-top: 200px;
 }
 .flexible-container6{
@@ -254,7 +254,9 @@ p {
 }
 .six-half-width{
     width: 40%;
-    margin-left: 2%;
+    margin-left: 5%;
     margin-right: 3%;
+    box-shadow: 15px 20px 30px green;
+    padding: 15px;
 }
 /* six style part end */
