@@ -210,15 +210,28 @@ p {
 }
 .felxible-container5{
     display: flex;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 .fifth-half-width{
-    width: 50%;
-    padding-left: 7%;
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 4%;
+    box-shadow: 15px 20px 30px gray;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .fifth-half-width h1{
     font-size: 40px;
     font-weight: 900;
     color: black;
+}
+.fifth-half-width h4{
+    font-size: x-large;
+    color: chartreuse;
+}
+#captain{
+    border-left: 8px;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 3;
 }
 /*fifth style part */
