@@ -230,8 +230,13 @@ p {
     color: chartreuse;
 }
 #captain{
-    border-left: 8px;
+    border-left: 8px solid;
     border-image: linear-gradient(blue, cyan);
-    border-image-slice: 3;
+    border-image-slice: 2;
+}
+#t20{
+    border-left: 10px solid;
+    border-image: linear-gradient(chocolate, red);
+    border-image-slice: 2;
 }
 /*fifth style part */
