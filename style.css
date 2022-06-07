@@ -259,4 +259,16 @@ p {
     box-shadow: 15px 20px 30px green;
     padding: 15px;
 }
+#carrer-start{
+    border-left: 8px solid;
+    border-image: linear-gradient(blue, blueviolet);
+    border-image-slice: 2;
+
+}
+#formate-carrer{ 
+    border-top: 10px solid;
+        border-image: linear-gradient(chocolate, red);
+        border-image-slice: 2;
+
+}
 /* six style part end */
